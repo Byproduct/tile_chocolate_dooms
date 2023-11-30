@@ -2,7 +2,7 @@
 
 This is a Python script to launch a screen full of tiled Chocolate Doom instances.
 
-Inspired by Dave's Garage trying 100 copies of Doom on a 96-core, 192-thread processor ([Youtube](https://www.youtube.com/watch?v=Ybw6djC90tw))
+Inspired by Dave's Garage trying 100 copies of Doom on a 96-core, 192-thread processor ([Youtube](https://www.youtube.com/watch?v=Ybw6djC90tw)).
 
 Dave used Chrome windows - but with Chocolate Doom it's much lighter on the CPU, so you can try too!
 
