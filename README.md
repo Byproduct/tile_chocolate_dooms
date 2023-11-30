@@ -22,4 +22,4 @@ other values can remain default
 
 Open launchdooms.py in a text editor and check the configuration at the top
 
-After launching, use closedooms.py to close all windows.
+After launching, you can use closedooms.py to close all windows.
