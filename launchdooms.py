@@ -12,7 +12,7 @@
 # other values can remain default
 
 
-window_title = "The Ultimate DOOM - Chocolate Doom 3.0.1"   # Set according to your actual Doom window title - depends on which WAD you run
+window_title = "The Ultimate DOOM - Chocolate Doom 3.0.1"   # Set according to your actual Doom window title - depends on your WAD and Chocolate Doom version
 screen_width = 3440                # set according to your monitor resolution
 screen_height = 1440
 time_between_instances = 0.01      # time to wait (s) between launching instances. Increase this value if you get errors or if all your windows aren't launching.
