@@ -1,7 +1,9 @@
 # Tile Chocolate Dooms
 
 Python script to launch a screen full of Chocolate Doom windows.
+
 Inspired by Dave's Garage trying 100 copies of Doom on a 96-core, 192-thread processor: https://www.youtube.com/watch?v=Ybw6djC90tw
+
 Dave used Chrome windows - but with Chocolate Doom it's much lighter on the CPU.
 
 Made for Windows 10, haven't tested other OSes.
