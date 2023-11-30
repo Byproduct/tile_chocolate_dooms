@@ -7,7 +7,9 @@ Dave used Chrome windows - but with Chocolate Doom it's much lighter on the CPU.
 Made for Windows 10, haven't tested other OSes.
 
 Get chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Downloads
+
 Put a doom .WAD file and this script in the same folder as chocolate doom
+
 Open chocolate-doom.cfg in a text editor and set the following:
 fullscreen                    0
 window_width                  320
