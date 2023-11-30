@@ -6,7 +6,11 @@ Inspired by Dave's Garage trying 100 copies of Doom on a 96-core, 192-thread pro
 
 Dave used Chrome windows - but with Chocolate Doom it's much lighter on the CPU.
 
-Made for Windows 10, haven't tested other OSes.
+
+This script is made for Windows 10, I haven't tested it on other OSes.
+
+
+Instructions:
 
 Get chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Downloads
 
